@@ -1,0 +1,16 @@
+{
+  "name": "派对狂欢夜",
+  "short_name": "派对游戏",
+  "description": "酒桌派对互动小游戏 - 离线可用",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0015",
+  "theme_color": "#0a0015",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎉</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
